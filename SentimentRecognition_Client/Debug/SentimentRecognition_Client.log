@@ -1,0 +1,3 @@
+﻿  SentimentRecognition_Client.cpp
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Client\Converter.cpp(38,2): warning C4091: static : пропускается слева от "Converter", когда ни одна переменная не объявлена
+  SentimentRecognition_Client.vcxproj -> D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Client\Debug\SentimentRecognition_Client.exe

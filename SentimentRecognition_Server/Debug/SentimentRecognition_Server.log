@@ -1,0 +1,38 @@
+﻿  SentimentRecognition_Server.cpp
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\Converter.cpp(37,2): warning C4091: static : пропускается слева от "Converter", когда ни одна переменная не объявлена
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(61,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(72,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(101,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(102,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(114,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(166,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(168,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(174,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(184,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(198,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(218,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(224,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(235,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(242,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(262,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(264,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(269,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(271,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(273,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(284,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(286,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(291,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(293,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(295,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(312,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(318,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(327,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(338,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(341,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(349,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(352,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(355,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\NeuralNet.h(365,21): warning C4018: <: несоответствие типов со знаком и без знака
+  SentimentRecognition_Server.vcxproj -> D:\VisualStudioProjects\Sentiment Recognition Curs\SentimentRecognition_Server\Debug\SentimentRecognition_Server.exe
